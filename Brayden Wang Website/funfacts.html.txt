@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Brayden Fun Facts</title>
+    <style>
+        body { font-family: Arial; background: #00b894; color: white; text-align: center; padding: 60px; }
+        nav a { margin: 0 15px; color: white; font-size: 1.2rem; text-decoration: none; }
+        nav a:hover { text-decoration: underline; }
+        ul { list-style: none; padding: 0; font-size: 1.3rem; }
+        li { margin: 15px 0; }
+    </style>
+</head>
+<body>
+    <h1>Fun Facts About Brayden</h1>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="achievements.html">Achievements</a>
+        <a href="about.html">About Brayden</a>
+        <a href="funfacts.html">Fun Facts</a>
+    </nav>
+
+    <ul>
+        <li>🔥 Has never lost an argument he cared about</li>
+        <li>🧠 Learns new things faster than most people finish reading instructions</li>
+        <li>🎮 Low‑key cracked at most games he touches</li>
+        <li>😎 Known for being calm even when everyone else is stressing</li>
+        <li>📈 Has a natural “main character energy” aura</li>
+    </ul>
+</body>
+</html>
